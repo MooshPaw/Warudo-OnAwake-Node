@@ -2,8 +2,7 @@
 Adds an "On Awake" node to trigger a flow ONCE after the scene loads
 
 # Installation
-Subscribe to the Steam Workshop item (Not yet available, this will be updated once i publish it)
-
+Subscribe to the [Steam Workshop Item](https://steamcommunity.com/sharedfiles/filedetails/?id=3810208986)
 # Manual Installation
 Download the OnAwakeNode.cs on your Warudo\Warudo_Data\StreamingAssets\Playground folder
 
